@@ -1,5 +1,5 @@
 
-## 📝 4. Exercise
+## 📝 Exercise
 
 ### 🏆 Task: Create a Simple Person Class
 
