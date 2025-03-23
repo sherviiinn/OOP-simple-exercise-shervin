@@ -11,4 +11,11 @@ public class Person {
     public void setAge(int age) {
         this.age = age;
     }
+    public void info(){
+        System.out.println("Name: " + name + " Age: " + age);
+    }
+    public static void main(){
+        Person person = new Person(18, "James");
+        person.info();
+    }
 }
